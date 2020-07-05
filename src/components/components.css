@@ -1,0 +1,9 @@
+li {
+    margin: 50px auto;
+    list-style: none;
+}
+
+.prod-img {
+    width: 400px;
+    height: 400px;
+}
